@@ -1,0 +1,4 @@
+.env
+.claude/
+*.pyc
+__pycache__/
